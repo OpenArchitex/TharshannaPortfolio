@@ -1,10 +1,17 @@
-# Academic Portfolio
+<h1 align="center">
+  Portfolio of Tharshanna Nadarajah
+</h1>
 
-This is an example portfolio created with [@openarchitex/gatsby-theme-academic-portfolio](https://github.com/OpenArchitex/gatsby-themes/tree/master/themes/gatsby-theme-academic-portfolio).
+![Gatsby Build](https://github.com/OpenArchitex/TharshannaPortfolio/workflows/Gatsby%20Build/badge.svg)
 
-You can use [theme shadowing](https://www.gatsbyjs.org/docs/themes/shadowing/) to override the sections in the theme. 
-All the files relevant to the theme should go under `@opanarchitex/gatsby-theme-academic-portfolio`. 
-For example the `banner.mdx` and `profile-pic.jpg` is overridden as an example. 
+This is the codebase for www.tharshanna.info website. 
 
-If you have any questions, issues or enhancements to this starter feel free to open an 
-[issue at the gatsby-themes repo](https://github.com/OpenArchitex/gatsby-themes/issues).
+- If you have any question or comment feel free to use our [issue tracker](https://github.com/OpenArchitex/TharshannaPortfolio/issues).
+
+- Some tips related to the codebase can be found at our [contributing guidelines section](https://github.com/OpenArchitex/TharshannaPortfolio/blob/master/CONTRIBUTING.md). 
+
+---
+
+`We are grateful for JetBrains for generously providing Open Source licenses to help us with our development effort.`
+
+[![JetBrains Logo](https://raw.githubusercontent.com/OpenArchitex/CommonAssets/master/images/jetbrains-logo.svg)](https://www.jetbrains.com/?from=CherishCakes)
