@@ -3,8 +3,8 @@ module.exports = {
         // You can overwrite the following values or add new values and query them
         // The following three values are used in the SEO component
         // Refer: https://github.com/OpenArchitex/gatsby-themes/blob/master/themes/gatsby-theme-academic-portfolio/gatsby-config.js
-        title: "Academic Portfolio",
-        description: "Portfolio theme tailored for profs, grad-students",
+        title: "Tharshanna Nadarajah",
+        description: "Portfolio of Tharshanna Nadarajah",
         author: "OpenArchitex"
     },
     plugins: [
