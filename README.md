@@ -4,7 +4,7 @@
 
 ![Gatsby Build](https://github.com/OpenArchitex/TharshannaPortfolio/workflows/Gatsby%20Build/badge.svg)
 
-This is the codebase for www.tharshanna.info website. 
+This is the codebase for www.tharshanna.ca website. 
 
 - If you have any question or comment feel free to use our [issue tracker](https://github.com/OpenArchitex/TharshannaPortfolio/issues).
 
