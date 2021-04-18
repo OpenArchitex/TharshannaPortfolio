@@ -1,19 +1,18 @@
 import React from "react"
-import StatAppletsMDX from "../../sections/stat-applets"
+import { default as AboutMDX } from "../sections/about"
 import {Box, Grid} from "theme-ui";
 
-const StatApplets = () => (
+const About = () => (
     <Grid
         pt={50}
         pb={50}
         pl={4}
         pr={4}
-        id="stat-applets"
     >
         <Box>
-            <StatAppletsMDX />
+            <AboutMDX />
         </Box>
     </Grid>
 )
 
-export default StatApplets;
+export default About;
